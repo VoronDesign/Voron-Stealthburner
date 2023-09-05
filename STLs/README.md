@@ -8,3 +8,5 @@
 | [c]\_\*.stl | Clear/Translucent (light can penetrate) |
 | \*\_cw1.stl | Clockwork1 Version |
 | \*\_cw2.stl | Clockwork2 Version |
+
+# NOTE: The X Carriage files are in each printers repo and not in the Stealthburner repo 
