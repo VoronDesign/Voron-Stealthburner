@@ -25,4 +25,10 @@ Depending on where the Rapido is sourced, it may come in one of two unsupported 
 
 To change the orientation of heatsink, first loosen the grub screw on the side and then remove the 3 screws around the heater core. The heatsink can then be rotated +/- 120° into the correct orientation. Be careful not to over-tighten the screws when reassembling as this could cause the heatbreak to bend.
 
+**The following is an example for the Rapido V1 hotend, but the process is the same for the V2. Take care to ensure you are using the correct orientation for the V2, the following image just explains the process.**
+
+![Correct Heatsink Orientation for Rapido V1](../phaetus_rapido/Correct_Heatsink_Orientation.png)
+
+Use the above process to adjust the heatsink orientation for the V2. Be sure that the heatbrake set screw, thermistor wires, and heater wires are all aligned as shown below:
+
 ![Correct Heatsink Orientation](Rapido_v2_heatsink_orientation.png)
