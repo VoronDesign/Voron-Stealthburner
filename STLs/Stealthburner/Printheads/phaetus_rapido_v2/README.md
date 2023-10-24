@@ -31,4 +31,12 @@ To change the orientation of heatsink, first loosen the grub screw on the side a
 
 Use the above process to adjust the heatsink orientation for the V2. Be sure that the heatbrake set screw, thermistor wires, and heater wires are all aligned as shown below:
 
-![Correct Heatsink Orientation](Rapido_v2_heatsink_orientation.png)
+![Correct Heatsink Orientation](Rapido_V2_Assembly_Images/v2_heatsink_orientation.png)
+
+After you've aligned the heatsink as shown above, you will need to slightly bend the heater wire strain relief tab (if any) downward.
+![Bend the strain relief down](Rapido_V2_Assembly_Images/v2_heater_bend.png)
+
+After bending the heater wires downward, fit the Rapido V2 into the front half of the SB ducts, and check to make sure you've got the heater wires routed below the mounting screw boss, and the thermistor wires routed above the mounting screw boss as shown here:
+![Check wire location relative to mounnting screw boss](Rapido_V2_Assembly_Images/v2_sb_boss_check.png)
+
+Now install the back half of the SB ducts, and you are done!
