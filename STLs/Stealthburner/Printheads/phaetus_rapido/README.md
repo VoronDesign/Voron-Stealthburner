@@ -21,8 +21,15 @@
 
 ### A note about Rapido orientations
 
-Depending on where the Rapido is sourced, it may come in one of two unsupported heatsink orientations.
+Depending on where the Rapido is sourced, it may come in one of two _unsupported_ heatsink orientations.
 
-To change the orientation of heatsink, first loosen the grub screw on the side and then remove the 3 screws around the heater core. The heatsink can then be rotated +/- 120° into the correct orientation. Be careful not to over-tighten the screws when reassembling as this could cause the heatbreak to bend.
+To change the orientation of heatsink to a supported orientation:
+
+1. Loosen the grub screw on the side.
+2. Remove the 3 screws around the heater core.
+3. Rotate the heatsink +/- 120° into the correct orientation (see the pictures below).
+4. Install and _gently tighten_ the 3 screws around the heater core.
+5. _Gently tighten_ the side grub screw.
+6. **Be careful not to over-tighten any screws when reassembling.**  Over-tightening can cause the heatbreak to bend and potentially restrict the filament path. Checking for smooth filament movement through a cold hotend without a nozzle is recommended prior to reinstalling the Rapido into the printhead.
 
 ![Correct Heatsink Orientation](Correct_Heatsink_Orientation.png)
