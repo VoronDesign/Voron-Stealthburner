@@ -6,7 +6,7 @@ Choose files containing ***front*** based on your hotend and ***rear_cw1*** / **
 
 | Hotend | Compatible Parts | Mounting Hardware | Notes |
 | :--------: | :--------: | :--------: | :--------: 
-| Phaetus/Trianglelab Dragon | (P-DRG) | 4x M2.5x8mm | Remove the screws attaching the groove-mount adaptor to access the hard mounting points. |
+| Phaetus/Trianglelab Dragon ST/SF/HF | (P-DRG) | 4x M2.5x8mm | Remove the screws attaching the groove-mount adaptor to access the hard mounting points. |
 | Phaetus BMO | (P-BMO) | 4x M2.5x8mm | Unscrew the groove-mount adaptor to access the hard mounting points. |
 | Phaetus BMS (6 fins) | (P-BMS6) | 2x M3x12mm | Phaetus has two versions of the BMS; Count the number of fins on your hotend to determine your version. |
 | Phaetus BMS (7 fins) | (P-BMS7) | 2x M3x12mm | Phaetus has two versions of the BMS; Count the number of fins on your hotend to determine your version. |
