@@ -30,15 +30,15 @@ To change the orientation of heatsink to a supported orientation:
 3. Rotate the heatsink +/- 120° into the correct orientation (see the pictures below).
 4. Install and _gently tighten_ the 3 screws around the heater core.
 5. _Gently tighten_ the side grub screw.
-6. **Be careful not to over-tighten any screws when reassembling.**  Over-tightening can cause the heatbreak to bend and potentially restrict the filament path. Checking for smooth filament movement through a cold hotend without a nozzle is recommended prior to reinstalling the Rapido into the printhead.
+6. **Be careful not to over-tighten any screws when reassembling.** Over-tightening can cause the heatbreak to bend and potentially restrict the filament path. Checking for smooth filament movement through a cold hotend without a nozzle is recommended prior to reinstalling the Rapido into the printhead.
 
-**The following is an example for the Rapido V1 hotend, but the process is the same for the V2. Take care to ensure you are using the correct orientation for the V2, the following image just explains the process.**
+**The following is an example for the Rapido V1 hotend, see below for the V2 orientation.**
 
 ![Correct Heatsink Orientation for Rapido V1](../phaetus_rapido/Correct_Heatsink_Orientation.png)
 
 Use the above process to adjust the heatsink orientation for the V2. Be sure that the heatbrake set screw, thermistor wires, and heater wires are all aligned as shown below:
 
-![Correct Heatsink Orientation](Rapido_V2_Assembly_Images/v2_heatsink_orientation.png)
+![Correct Heatsink Orientation](Rapido_V2_Assembly_Images/v2_heatsink_orientation.jpg)
 
 After you've aligned the heatsink as shown above, you will need to slightly bend the heater wire strain relief tab (if any) downward.
 ![Bend the strain relief down](Rapido_V2_Assembly_Images/v2_heater_bend.png)
